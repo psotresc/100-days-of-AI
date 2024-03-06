@@ -22,3 +22,5 @@
 - Entender las otras capas Add
 - Evaluar Modelo 
 - Subirlo a la nube para probarlo. 
+
+#cambio
