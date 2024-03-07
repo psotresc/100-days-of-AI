@@ -20,5 +20,3 @@
 ## Plan para mañana: 
 -  Entrenar 
 - Subir a la web y probar 
-
-#1
