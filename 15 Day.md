@@ -1,6 +1,6 @@
 18 Marzo 2024
 ## Progreso de hoy:
-- 
+- Creación de Modelo para el cambio de caras de personajes - Preparación de imágenes , detección y predicción de puntos. Y triangulación de cara.
 ## Lo que aprendí 
 - Acerca de la librería dlib
 - Dlib Detector y predictor para sacar caras y landmarks 
@@ -15,6 +15,6 @@
 - Es interesante ver la optimización de triángulos 
 - Hay muchos procesos que si corriera sólo el código no entendería 
 ## Link to work: 
-- 
+- https://colab.research.google.com/drive/17uz1rVI2mufyEcWpOOgIHrhBhikogCQs?usp=sharing 
 ## Plan para mañana: 
-- 
+- Terminar y trabajar el proyecto con Flask 
