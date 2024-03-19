@@ -8,6 +8,9 @@
 - Capas densas 
 - Capas flatten 
 - Recalcular los valores del summary 
+- Montar Google Drive Colab 
+- Class Imbalance 
+- Plotting 
 
 ## Pensamientos:
 - Es interesante ver el manejo de parámetros en un inicio fue un dolo de cabeza no poderlos entender. Los LLM's han sido de gran ayuda. Me sorprendió Claude

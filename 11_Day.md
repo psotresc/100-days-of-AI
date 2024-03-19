@@ -1,4 +1,4 @@
-14 Marzo 2024
+Jueves 14 Marzo 2024
 ## Progreso de hoy:
 - Estuve viendo varias cosas de Big Query con Google Analytics 
 ## Lo que aprendí 
