@@ -1,3 +1,5 @@
+# 100 días de AI 
+
 Repositorio para la creación de 100 días de estudio de AI, publicando mis avances cada día. 
 
 Estoy siguiendo como base una lista de 100 modelos explicados. Y diario lo estudio y comparto. 
