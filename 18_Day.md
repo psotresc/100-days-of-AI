@@ -1,7 +1,7 @@
 21 Marzo 2024
 
 ## Progreso de hoy:
-- Modelo de multiclasificación de aves, analizar los elementos que no conocía y repasarlos. 
+- Modelo de multi clasificación de aves, analizar los elementos que no conocía y repasarlos. 
 ## Lo que aprendí 
 - random_state - sklearn es un valor para hacer el shuffle de los valores es una variable entera, puede ser hasta 2147483647
 - LabelBinarizer() - una función para hacer one hot encoding de valores categóricos
