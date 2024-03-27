@@ -2,7 +2,7 @@
 ## Progreso de hoy:
 - Google Vertex AI configuración 
 ## Lo que aprendí 
-- Fine Tuning - en Vertex AI lo encotnraremos como Tuning o Tune a model
+- Fine Tuning - en Vertex AI lo encontraremos como Tuning o Tune a model
 	- Hay 3 tipos de Modelos - [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/models/tune-models?hl=es-419) 
 		- **Ajuste supervisado**: (Supervised Tuning) El ajuste supervisado de un modelo de texto es una buena opción cuando el resultado del modelo no es complejo y es relativamente fácil de definir. 
 			- Se recomienda para: la clasificación, el análisis de opiniones, la extracción de entidades, el resumen del contenido que no es complejo y la escritura de consultas específicas del dominio.
