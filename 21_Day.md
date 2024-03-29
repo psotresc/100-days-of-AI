@@ -32,4 +32,4 @@
 ## Link to work: 
 -  https://colab.research.google.com/drive/1iFXNORNCylV6t_f7clwgkNUYfhbdGuKn?usp=sharing 
 ## Plan para mañana: 
-- Continuar con Fine Tunning - ver posibilidades de Vertex AI - Arreglar permisos  
+- Continuar con Fine Tuning - ver posibilidades de Vertex AI - Arreglar permisos  
