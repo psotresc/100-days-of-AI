@@ -3,7 +3,7 @@
 ## Progreso de hoy:
 - Organización de textos para fine tuning
 ## Lo que aprendí 
-- Estuve viendo la forma de hacer style transfver a través de fine tuning
+- Estuve viendo la forma de hacer style transfer a través de fine tuning
 	- tiktoken - Conteo de tokens
 	- PyPDF2 - Conversión de PDF's a Texto
 	- googletrans  - Traducción de textos
