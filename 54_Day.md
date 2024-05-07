@@ -1,7 +1,7 @@
 06 Mayo 2024
 
 ## Progreso de hoy:
-- Inicié curso de Langchain
+- Inicié curso de Langchain - Aprendizaje de Importación y splitting
 ## Lo que aprendí 
 - Importación de PDFs con PyPDFLoader
 
