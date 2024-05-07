@@ -85,4 +85,4 @@ md_header_splits = markdown_splitter.split_text(markdown_document)
 ## Link to work: 
 - No work, just learning 
 ## Plan para mañana: 
-- Continuar curso. Arreglar Github
+- Continuar curso. Arreglar Github?
