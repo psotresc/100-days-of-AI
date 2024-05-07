@@ -12,3 +12,4 @@
 - https://www.genmo.ai/g/clvnehey3006l0omhfdqh8esv 
 ## Plan para mañana: 
 - Continuar con IBM y su nube
+
