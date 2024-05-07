@@ -4,7 +4,7 @@
 - Inicié curso de Langchain - Aprendizaje de Importación y splitting
 ## Lo que aprendí 
 
-### PDFs
+### Importar  de PDFs
 Importación de PDFs con PyPDFLoader
 
 ```
@@ -14,7 +14,7 @@ pages = loader.load()
 
 ```
 
-###  Youtube  
+###  Importar  de Youtube  
 Importación de Videos de Youtube con  yt_dlp y pydub - y haciendo uso de OpenAIWhisperParser VIdeos completos de una hora 
 
 ```
@@ -31,7 +31,7 @@ loader = GenericLoader(
 docs = loader.load()
 ```
 
-### URL 
+### Importar  de URL 
 ```
 from langchain.document_loaders import WebBaseLoader
 
