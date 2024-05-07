@@ -3,7 +3,9 @@
 ## Progreso de hoy:
 - Inicié curso de Langchain - Aprendizaje de Importación y splitting
 ## Lo que aprendí 
-- Importación de PDFs con PyPDFLoader
+
+### PDFs
+Importación de PDFs con PyPDFLoader
 
 ```
 from langchain.document_loaders import PyPDFLoader
@@ -12,7 +14,8 @@ pages = loader.load()
 
 ```
 
-- Importación de Videos de Youtube con  yt_dlp y pydub - y haciendo uso de OpenAIWhisperParser VIdeos completos de una hora 
+###  Youtube  
+Importación de Videos de Youtube con  yt_dlp y pydub - y haciendo uso de OpenAIWhisperParser VIdeos completos de una hora 
 
 ```
 from langchain.document_loaders.generic import GenericLoader
@@ -28,7 +31,7 @@ loader = GenericLoader(
 docs = loader.load()
 ```
 
-URL 
+### URL 
 ```
 from langchain.document_loaders import WebBaseLoader
 
@@ -37,8 +40,8 @@ loader = WebBaseLoader("https://github.com/basecamp/handbook/blob/master/37signa
 docs = loader.load()
 ```
 
-Splitting 
-Uso de Splitters en caractéres y espacios 
+### Splitting  Caracteres
+Uso de Splitters en caracteres y espacios 
 
 ```
 ## from langchain.text_splitter import RecursiveCharacterTextSplitter, CharacterTextSplitter
@@ -52,7 +55,7 @@ text_splitter = CharacterTextSplitter(
 )
 ```
 
-tokens 
+### Splitting  tokens 
 ```
 from langchain.text_splitter import TokenTextSplitter 
 
@@ -60,7 +63,7 @@ text_splitter = TokenTextSplitter(chunk_size=1, chunk_overlap=0)
 
 ```
 
-Context aware splitting
+### Context aware splitting
 ```
 from langchain.text_splitter import MarkdownHeaderTextSplitter
 
