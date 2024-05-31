@@ -1,0 +1,1 @@
+jugando con Midjourney y Cref
